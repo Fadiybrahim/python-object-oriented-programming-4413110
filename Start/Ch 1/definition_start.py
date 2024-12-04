@@ -13,6 +13,6 @@ book2 = ("no Work world")
 
 # TODO: Use the static method to access a singleton object
 print(book1)
-print(BOOK.title)
+print(BOOKS.title)
 
 # TODO: print the class and property
